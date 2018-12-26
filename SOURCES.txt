@@ -1,0 +1,4 @@
+http://www.datasciencemadesimple.com/mode-function-python-pandas-dataframe-row-column-wise-mode/
+https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9
+https://stackoverflow.com
+https://pandas.pydata.org
