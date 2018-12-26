@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+26th Dec 2018
 
 ### Project Title
-Replace the Project Title
+Bike share project
 
 ### Description
-Describe what your project is about and what it does
+About US bikeshare.
 
 ### Files used
-Include the files used
+csv Files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Me myself
