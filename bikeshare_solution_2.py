@@ -178,8 +178,7 @@ def user_stats(df,city):
     anwser = input().lower()
     if anwser == 'yes':
         print(df.head())
-    else:
-        print('thank you for your time')
+    
 
 
 def main():
